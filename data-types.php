@@ -9,16 +9,16 @@
 <?php
 //string
   $phrase = "To be or not to be";
-  echo $phrase
+  echo $phrase;
 //number
   $age = 30;
-  echo $age
+  echo $age;
 //floating point or decimal point number
   $gpa = 3.34;
-  echo $gpa
+  echo $gpa;
 //boolean
   $isMale = true;
-  echo $isMale
+  echo $isMale;
 //null
   null;
 ?>

@@ -19,9 +19,9 @@
   $phrase[0] = 'R';
   echo $phrase;
   // string replace words or letters etc.
-  echo str_replace('walrus', 'panda', $phrase)
+  echo str_replace('walrus', 'panda', $phrase);
   // substring - grab a section of the string - start at index 8 and grab 3 chars
-  echo substr($phrase, 8, 3)
+  echo substr($phrase, 8, 3);
 ?>
   
 </body>
