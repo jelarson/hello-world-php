@@ -11,7 +11,11 @@
   $title = "My Article Title";
   $author = "Jess E Larson";
   $wordCount = 300;
-  include "include-php.php"
+  include "include-php.php";
+
+  include "include-functions.php";
+  sayHi("Jesse");
+  echo $feetInMile;
   ?>
 
 </body>
