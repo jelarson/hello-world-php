@@ -13,10 +13,10 @@
       var $author;
       var $pages;
 
-      // funtions __construct($name){
+      // function __construct($name){
       //   echo "New Book Created -$name <br>"
       // }
-      funtions __construct($aTitle, $aAuthor, $aPages){
+      function __construct($aTitle, $aAuthor, $aPages){
         $this->title = $aTitle;
         $this->author = $aAuthor;
         $this->pages = $aPages;
