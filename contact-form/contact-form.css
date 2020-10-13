@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background: linear-gradient((rgba(0,0, 50, 0.5), rgba(0, 0, 50, 0.5)),url("https://images.unsplash.com/photo-1602501437125-71e4a5c16c26?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"));
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
